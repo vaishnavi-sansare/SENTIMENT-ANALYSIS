@@ -1,4 +1,17 @@
 # SENTIMENT ANALYSIS
+
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME*: VAISHNAVI SUDHIR SANSARE
+
+*INTERN ID*: CITS0D56
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 - This project performs sentiment analysis on Amazon Alexa reviews using NLP techniques. It covers data cleaning, text preprocessing, model training, and insight generation — all in a single, easy-to-follow notebook.
 
 ## Dataset
