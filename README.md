@@ -38,3 +38,7 @@
 - scikit-learn
 - XGBoost
 - NLTK
+
+<img width="667" height="562" alt="Image" src="https://github.com/user-attachments/assets/7e4bf5c3-c215-4e9a-9516-f2f03d6d6959" />
+<img width="665" height="559" alt="Image" src="https://github.com/user-attachments/assets/66988ade-8f3a-4c56-8ae1-f9ad66bc5937" />
+<img width="664" height="562" alt="Image" src="https://github.com/user-attachments/assets/95ca0907-c8c0-40fb-82aa-1ae31abf86f4" />
